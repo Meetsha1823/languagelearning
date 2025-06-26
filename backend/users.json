@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "1750826479286",
+      "username": "bharat",
+      "email": "bharat@gmail.com",
+      "password": "bharta",
+      "createdAt": "2025-06-25T04:41:19.286Z"
+    },
+    {
+      "id": "1750826874644",
+      "username": "meet",
+      "email": "meetp601abcd@gmail.com",
+      "password": "meet",
+      "createdAt": "2025-06-25T04:47:54.644Z"
+    },
+    {
+      "id": "1750827119096",
+      "username": "margi",
+      "email": "margi@gmail.com",
+      "password": "margi",
+      "createdAt": "2025-06-25T04:51:59.096Z"
+    },
+    {
+      "id": "1750913204367",
+      "username": "hetvi",
+      "email": "nitapatelgidc@gmail.com",
+      "password": "hetvi23",
+      "createdAt": "2025-06-26T04:46:44.367Z"
+    },
+    {
+      "id": "1750923629976",
+      "username": "margi1",
+      "email": "margi1@gmail.com",
+      "password": "margi",
+      "createdAt": "2025-06-26T07:40:29.976Z"
+    }
+  ]
+}
