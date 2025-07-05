@@ -1,0 +1,37 @@
+{
+  "blogs": [
+    {
+      "id": "1751706700910",
+      "title": "defw",
+      "summary": "efwfw",
+      "content": "sefweg",
+      "category": "Motivation",
+      "author": "margi1",
+      "authorId": "1750923629976",
+      "imagePreview": "blob:http://localhost:3000/92f80f55-ee4d-498f-8e70-37a05d19e00f",
+      "createdAt": "2025-07-05T09:11:40.910Z"
+    },
+    {
+      "id": "1751706826549",
+      "title": "meet",
+      "summary": "tech specialist",
+      "content": "technical error and problem solver\n",
+      "category": "Motivation",
+      "author": "margi1",
+      "authorId": "1750923629976",
+      "imagePreview": "blob:http://localhost:3000/16440773-94ca-49e1-8d89-290164ce5267",
+      "createdAt": "2025-07-05T09:13:46.549Z"
+    },
+    {
+      "id": "1751707220134",
+      "title": "fbwiehfw",
+      "summary": "fouqbwfeqbfueqbuq  iwubfw  wiubf  wifei; bf w ",
+      "content": "kbjefw ifwbf jhf ewfvedw fev feqi fhevfe wjfew jfej,f eq fe qvedwf wiubodqwf;qb.kfbw vw ieqbvqow3'9ue31fb w v rw",
+      "category": "Apps",
+      "author": "margi1",
+      "authorId": "1750923629976",
+      "imagePreview": "blob:http://localhost:3000/0bb7c10d-6b59-4918-942d-d0cc2df94b23",
+      "createdAt": "2025-07-05T09:20:20.134Z"
+    }
+  ]
+}

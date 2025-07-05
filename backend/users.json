@@ -5,35 +5,87 @@
       "username": "bharat",
       "email": "bharat@gmail.com",
       "password": "bharta",
-      "createdAt": "2025-06-25T04:41:19.286Z"
+      "createdAt": "2025-06-25T04:41:19.286Z",
+      "purchasedCourses": [
+        "Beginner Spanish",
+        "Mandarin Essentials"
+      ],
+      "progress": {
+        "spanish": {
+          "lesson1": true
+        }
+      }
     },
     {
       "id": "1750826874644",
       "username": "meet",
       "email": "meetp601abcd@gmail.com",
       "password": "meet",
-      "createdAt": "2025-06-25T04:47:54.644Z"
+      "createdAt": "2025-06-25T04:47:54.644Z",
+      "purchasedCourses": [],
+      "progress": {}
     },
     {
       "id": "1750827119096",
       "username": "margi",
       "email": "margi@gmail.com",
       "password": "margi",
-      "createdAt": "2025-06-25T04:51:59.096Z"
+      "createdAt": "2025-06-25T04:51:59.096Z",
+      "purchasedCourses": [
+        "Arabic Basics"
+      ],
+      "progress": {}
     },
     {
       "id": "1750913204367",
       "username": "hetvi",
       "email": "nitapatelgidc@gmail.com",
       "password": "hetvi23",
-      "createdAt": "2025-06-26T04:46:44.367Z"
+      "createdAt": "2025-06-26T04:46:44.367Z",
+      "purchasedCourses": [],
+      "progress": {}
     },
     {
       "id": "1750923629976",
       "username": "margi1",
       "email": "margi1@gmail.com",
       "password": "margi",
-      "createdAt": "2025-06-26T07:40:29.976Z"
+      "createdAt": "2025-06-26T07:40:29.976Z",
+      "purchasedCourses": [
+        "Mandarin Essentials",
+        "Beginner Spanish",
+        "Arabic Basics",
+        "Japanese Kanji",
+        "Italian for Travelers",
+        "Conversational French"
+      ],
+      "progress": {
+        "spanish": {
+          "lesson1": true,
+          "lesson2": true
+        }
+      }
+    },
+    {
+      "id": "1751359850125",
+      "username": "manavpatel",
+      "email": "manav@gmail.com",
+      "password": "manav",
+      "createdAt": "2025-07-01T08:50:50.125Z",
+      "purchasedCourses": [
+        "Arabic Basics",
+        "Mandarin Essentials"
+      ]
+    },
+    {
+      "id": "1751608689179",
+      "username": "meetpatel",
+      "email": "m@gmail.com",
+      "password": "meet",
+      "createdAt": "2025-07-04T05:58:09.179Z",
+      "purchasedCourses": [
+        "Mandarin Essentials"
+      ]
     }
   ]
 }
